@@ -1,0 +1,15 @@
+D:\gb_home\C#\Homework_Sem2\15_Weekend\obj\Debug\net6.0\15_Weekend.csproj.AssemblyReference.cache
+D:\gb_home\C#\Homework_Sem2\15_Weekend\obj\Debug\net6.0\15_Weekend.GeneratedMSBuildEditorConfig.editorconfig
+D:\gb_home\C#\Homework_Sem2\15_Weekend\obj\Debug\net6.0\15_Weekend.AssemblyInfoInputs.cache
+D:\gb_home\C#\Homework_Sem2\15_Weekend\obj\Debug\net6.0\15_Weekend.AssemblyInfo.cs
+D:\gb_home\C#\Homework_Sem2\15_Weekend\obj\Debug\net6.0\15_Weekend.csproj.CoreCompileInputs.cache
+D:\gb_home\C#\Homework_Sem2\15_Weekend\bin\Debug\net6.0\15_Weekend.exe
+D:\gb_home\C#\Homework_Sem2\15_Weekend\bin\Debug\net6.0\15_Weekend.deps.json
+D:\gb_home\C#\Homework_Sem2\15_Weekend\bin\Debug\net6.0\15_Weekend.runtimeconfig.json
+D:\gb_home\C#\Homework_Sem2\15_Weekend\bin\Debug\net6.0\15_Weekend.dll
+D:\gb_home\C#\Homework_Sem2\15_Weekend\bin\Debug\net6.0\15_Weekend.pdb
+D:\gb_home\C#\Homework_Sem2\15_Weekend\obj\Debug\net6.0\15_Weekend.dll
+D:\gb_home\C#\Homework_Sem2\15_Weekend\obj\Debug\net6.0\refint\15_Weekend.dll
+D:\gb_home\C#\Homework_Sem2\15_Weekend\obj\Debug\net6.0\15_Weekend.pdb
+D:\gb_home\C#\Homework_Sem2\15_Weekend\obj\Debug\net6.0\15_Weekend.genruntimeconfig.cache
+D:\gb_home\C#\Homework_Sem2\15_Weekend\obj\Debug\net6.0\ref\15_Weekend.dll
