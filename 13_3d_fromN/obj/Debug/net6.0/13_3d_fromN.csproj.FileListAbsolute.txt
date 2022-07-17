@@ -1,0 +1,15 @@
+D:\gb_home\C#\Homework_Sem2\13_3d_fromN\obj\Debug\net6.0\13_3d_fromN.csproj.AssemblyReference.cache
+D:\gb_home\C#\Homework_Sem2\13_3d_fromN\obj\Debug\net6.0\13_3d_fromN.GeneratedMSBuildEditorConfig.editorconfig
+D:\gb_home\C#\Homework_Sem2\13_3d_fromN\obj\Debug\net6.0\13_3d_fromN.AssemblyInfoInputs.cache
+D:\gb_home\C#\Homework_Sem2\13_3d_fromN\obj\Debug\net6.0\13_3d_fromN.AssemblyInfo.cs
+D:\gb_home\C#\Homework_Sem2\13_3d_fromN\obj\Debug\net6.0\13_3d_fromN.csproj.CoreCompileInputs.cache
+D:\gb_home\C#\Homework_Sem2\13_3d_fromN\bin\Debug\net6.0\13_3d_fromN.exe
+D:\gb_home\C#\Homework_Sem2\13_3d_fromN\bin\Debug\net6.0\13_3d_fromN.deps.json
+D:\gb_home\C#\Homework_Sem2\13_3d_fromN\bin\Debug\net6.0\13_3d_fromN.runtimeconfig.json
+D:\gb_home\C#\Homework_Sem2\13_3d_fromN\bin\Debug\net6.0\13_3d_fromN.dll
+D:\gb_home\C#\Homework_Sem2\13_3d_fromN\bin\Debug\net6.0\13_3d_fromN.pdb
+D:\gb_home\C#\Homework_Sem2\13_3d_fromN\obj\Debug\net6.0\13_3d_fromN.dll
+D:\gb_home\C#\Homework_Sem2\13_3d_fromN\obj\Debug\net6.0\refint\13_3d_fromN.dll
+D:\gb_home\C#\Homework_Sem2\13_3d_fromN\obj\Debug\net6.0\13_3d_fromN.pdb
+D:\gb_home\C#\Homework_Sem2\13_3d_fromN\obj\Debug\net6.0\13_3d_fromN.genruntimeconfig.cache
+D:\gb_home\C#\Homework_Sem2\13_3d_fromN\obj\Debug\net6.0\ref\13_3d_fromN.dll
